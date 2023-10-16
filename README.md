@@ -1,4 +1,4 @@
-# ai-jailbreak
+# Jailbreaking AI
 
 ![Using low resource language to bypass the filters](assets//2023-10-16_10-17.png)
 
